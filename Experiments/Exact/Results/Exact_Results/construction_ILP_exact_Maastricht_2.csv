@@ -1,0 +1,5 @@
+InstanceFile,MISType,Width,Height,Size,Capacity,Timeout,ConstructionTime,MISFindingTime,MISLength
+0.3.txt,ILP,10,8,80,79,False,00:00:00.01,00:00:00.24,20
+0.5.txt,ILP,10,8,80,79,False,00:00:00.00,00:00:00.00,20
+0.7.txt,ILP,10,8,80,79,False,00:00:00.00,00:00:00.00,20
+0.9.txt,ILP,10,8,80,79,False,00:00:00.00,00:00:00.00,20

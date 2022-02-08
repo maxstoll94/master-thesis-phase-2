@@ -1,0 +1,5 @@
+InstanceFile,SolverType,MISType,OrderingType,Width,Height,Size,Capacity,NumberOfGroups,NumberOfPeople,NumberOfGroupsSeated,NumberOfPeopleSeated,PercentageSeated,PercentageOccupied,PercentageEmpty,Valid,AllSeated,Timeout,OutOfMemory,SolvingTime,VariableCount,ConstraintCount
+0.3.txt,Greedy_SF,None,,14,10,140,126,13,38,13,38,0.30158730158730157,0.30158730158730157,0.9,True,True,False,False,00:00:00.01,-1,0
+0.5.txt,Greedy_SF,None,,14,10,140,126,32,63,21,31,0.24603174603174602,0.5,0.9,True,False,False,False,00:00:00.00,-1,0
+0.7.txt,Greedy_SF,None,,14,10,140,126,37,88,21,33,0.2619047619047619,0.6984126984126984,0.9,True,False,False,False,00:00:00.00,-1,0
+0.9.txt,Greedy_SF,None,,14,10,140,126,52,113,21,32,0.25396825396825395,0.8968253968253969,0.9,True,False,False,False,00:00:00.00,-1,0

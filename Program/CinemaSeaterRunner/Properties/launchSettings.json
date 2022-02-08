@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "CinemaSeaterRunner": {
+      "commandName": "Project",
+      "commandLineArgs": "-m Experiments -i ../../../../../Experiment/Random_Instances/3000  -g ../../../../../Experiment/Results/Test2 -to 5 -e Solve -mis ILP -st Greedy_MIS_SF"
+    },
+    "SingleInstance": {
+      "commandName": "Project",
+      //"commandLineArgs": "-i ../../../../../Instances/Test/test.txt -st ILP -mis None"
+      "commandLineArgs": "-i ../../../../../Experiment/Exact_Instances/Real_Instances/Maastricht_2/0.3.txt -st ILP -mis None"
+    }
+  }
+}

@@ -1,0 +1,5 @@
+InstanceFile,MISType,Width,Height,Size,Capacity,Timeout,ConstructionTime,MISFindingTime,MISLength
+0.3.txt,Greedy,17,12,204,199,False,00:00:00.01,00:00:00.00,37
+0.5.txt,Greedy,17,12,204,199,False,00:00:00.00,00:00:00.00,37
+0.7.txt,Greedy,17,12,204,199,False,00:00:00.00,00:00:00.00,37
+0.9.txt,Greedy,17,12,204,199,False,00:00:00.00,00:00:00.00,37

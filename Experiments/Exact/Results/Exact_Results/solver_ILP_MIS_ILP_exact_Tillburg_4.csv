@@ -1,0 +1,5 @@
+InstanceFile,SolverType,MISType,OrderingType,Width,Height,Size,Capacity,NumberOfGroups,NumberOfPeople,NumberOfGroupsSeated,NumberOfPeopleSeated,PercentageSeated,PercentageOccupied,PercentageEmpty,Valid,AllSeated,Timeout,OutOfMemory,SolvingTime,VariableCount,ConstraintCount
+0.3.txt,ILP_MIS,ILP,,27,18,486,379,56,114,53,108,0.2849604221635884,0.3007915567282322,0.779835390946502,True,False,False,False,00:00:16.16,4519,0
+0.5.txt,ILP_MIS,ILP,,27,18,486,379,92,190,57,125,0.32981530343007914,0.5013192612137203,0.779835390946502,True,False,False,False,00:00:26.26,7567,0
+0.7.txt,ILP_MIS,ILP,,27,18,486,379,121,265,52,136,0.35883905013192613,0.6992084432717678,0.779835390946502,True,False,False,False,00:00:46.23,9978,0
+0.9.txt,ILP_MIS,ILP,,27,18,486,379,154,341,0,0,0,0.899736147757256,0.779835390946502,True,False,True,False,00:05:00.00,0,0
